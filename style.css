@@ -1,0 +1,47 @@
+header{background-color: rgb(97, 0, 47);
+ font-size:xx-large ;
+ text-align: center;
+ font-family: 'Bungee Spice', cursive;}
+a{background-color: rgb(232, 215, 194);
+    font-family: 'Open Sans', sans-serif;color: #1d192e;
+    font-size: large;   
+}
+
+body{background-image: url("/imagenes/fond2.jpg"); background-repeat: repeat;
+}
+
+
+img{padding: 1px 2px 3px 4px;
+    margin: 20px 10px 10px 10px;
+    border: 5px solid rgb(18, 11, 11);
+    width: 150px;height: 100px; }
+section{color: rgb(3, 6, 9);}
+
+h3{font-size: 20px;color: #1a095f;text-align: center;
+    font-family: 'Open Sans', sans-serif;}
+
+    .marco1 {background-color: rgb(80, 116, 148);color: #0a0715;
+        font-family:'Roboto', sans-serif;
+        font-size: large;
+        padding: 15px 50px;
+        border: 5px solid #3d10ad;
+        margin:5px 50px;;
+      }
+      .marco2 {padding: 10px 10px 10px 10px;
+        font-family: 'Roboto', sans-serif;
+        border: 10px solid #05564e;
+        margin:5px 50px;
+        background-color: rgb(55, 137, 147);
+          color: azure;
+      }
+      .marco3 {
+        padding: 15px 50px;
+        border: 10px solid rgb(79, 79, 125);
+        margin:5px 50px;
+        background-color: rgb(172, 152, 237);
+          color: rgb(35, 4, 4);
+          font-family:Georgia, 'Times New Roman', Times, serif
+          ;font-size: large;
+      }
+      .div_1{color: #811212;font-size: large;}
+      iframe{border:10px solid rgb(144, 39, 42);text-align: center;}
